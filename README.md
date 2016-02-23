@@ -8,7 +8,7 @@
 |Type | Co-located | Geographically distant|Persistence required|
 | -- | -- | -- | -- |
 | Face to face around shared sketching environment | V | -- | -- |
-| Face to face conversation | 1:2 | 2:2 | -- |
+| Face to face conversation | V | -- | -- |
 | Video conferencing | -- | -- | -- |
 | Phone conversation | 1:2 | 2:2 | -- |
 | Email/online chat conversation | 1:2 | 2:2 | -- |
