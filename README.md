@@ -9,7 +9,7 @@
 | -- | -- | -- | -- |
 | Face to face around shared sketching environment | V | -- | -- |
 | Face to face conversation | V | -- | -- |
-| Video conferencing | -- | -- | -- |
+| Video conferencing | V | V | -- |
 | Phone conversation | 1:2 | 2:2 | -- |
 | Email/online chat conversation | 1:2 | 2:2 | -- |
 | Digital snapshot | 1:2 | 2:2 | -- |
