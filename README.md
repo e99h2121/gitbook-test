@@ -10,14 +10,15 @@
 | Face to face around shared sketching environment | 1:2 | 2:2 | 3:2 |
 |Face to face around shared sketching environment | -- | -- | -- |
 | Face to face around shared sketching environment | -- | -- | -- |
-| 0:3 | 1:3 | 2:3 | 3:3 |
-| 0:4 | 1:4 | 2:4 | 3:4 |
-| 0:5 | 1:5 | 2:5 | 3:5 |
-| 0:6 | 1:6 | 2:6 | 3:6 |
-| 0:7 | 1:7 | 2:7 | 3:7 |
-| 0:8 | 1:8 | 2:8 | 3:8 |
-| 0:9 | 1:9 | 2:9 | 3:9 |
-| 0:10 | 1:10 | 2:10 | 3:10 |
+| Face to face conversation | 1:2 | 2:2 | -- |
+| Video conferencing | -- | -- | -- |
+| Phone conversation | 1:2 | 2:2 | -- |
+| Email/online chat conversation | 1:2 | 2:2 | -- |
+| Digital snapshot | 1:2 | 2:2 | -- |
+| Overview documentation | 1:2 | 2:2 | -- |
+| Video recording | 1:2 | 2:2 | -- |
+| Audio recording | 1:2 | 2:2 | -- |
+| Detailed Documentation | 1:2 | 2:2 | -- |
 
 
 
