@@ -12,7 +12,7 @@
 | Video conferencing | V | V | -- |
 | Phone conversation | V | V | -- |
 | Email/online chat conversation | V | V | V |
-| Digital snapshot | 1:2 | 2:2 | -- |
+| Digital snapshot | V | V | V |
 | Overview documentation | 1:2 | 2:2 | -- |
 | Video recording | 1:2 | 2:2 | -- |
 | Audio recording | 1:2 | 2:2 | -- |
