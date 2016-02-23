@@ -13,10 +13,10 @@
 | Phone conversation | V | V | -- |
 | Email/online chat conversation | V | V | V |
 | Digital snapshot | V | V | V |
-| Overview documentation | 1:2 | 2:2 | -- |
-| Video recording | 1:2 | 2:2 | -- |
-| Audio recording | 1:2 | 2:2 | -- |
-| Detailed Documentation | 1:2 | 2:2 | -- |
+| Overview documentation | V | V | V |
+| Video recording | V | V | V |
+| Audio recording | V | V | V |
+| Detailed Documentation | V | V | V |
 
 
 
