@@ -7,7 +7,7 @@
 ## About
 
 
-|Type | Co-located | Geographically distant|Persistence required |
+|Type | Co-located | Geographically distant|Persistence required|
 | Face to face around shared sketching environment | -- | -- | -- |
 | Face to face around shared sketching environment | -- | -- | -- |
 
