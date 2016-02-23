@@ -7,14 +7,23 @@
 ## About
 
 
-| Type | Co-located | Geographically distant|Persistence required |
+|Type | Co-located | Geographically distant|Persistence required |
 | Face to face around shared sketching environment | -- | -- | -- |
+| Face to face around shared sketching environment | -- | -- | -- |
+
+
+
+
+
 | Face to face conversation | 1:2 | 2:2 | -- |
-
-
-
-
-
+| Video conferencing | -- | -- | -- |
+| Phone conversation | 1:2 | 2:2 | -- |
+| Email/online chat conversation | 1:2 | 2:2 | -- |
+| Digital snapshot | 1:2 | 2:2 | -- |
+| Overview documentation | 1:2 | 2:2 | -- |
+| Video recording | 1:2 | 2:2 | -- |
+| Audio recording | 1:2 | 2:2 | -- |
+| Detailed Documentation | 1:2 | 2:2 | -- |
 
 
 
