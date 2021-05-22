@@ -20,31 +20,6 @@
 
 
 
-
-
-
-
-
-|Type | Co-located | Geographically distant|Persistence required|
-|Face to face around shared sketching environment | -- | -- | -- |
-| Face to face around shared sketching environment | -- | -- | -- |
-
-
-
-
-
-| Face to face conversation | 1:2 | 2:2 | -- |
-| Video conferencing | -- | -- | -- |
-| Phone conversation | 1:2 | 2:2 | -- |
-| Email/online chat conversation | 1:2 | 2:2 | -- |
-| Digital snapshot | 1:2 | 2:2 | -- |
-| Overview documentation | 1:2 | 2:2 | -- |
-| Video recording | 1:2 | 2:2 | -- |
-| Audio recording | 1:2 | 2:2 | -- |
-| Detailed Documentation | 1:2 | 2:2 | -- |
-
-
-
 This document has written by the author started to live in Shanghai from 2013.6.3 (Mon) to share:
 
 The Enjoyable information of daily life in Shanghai as foreigner, **perfectly based on my real experience.**
